@@ -1,4 +1,4 @@
-canvas =document.getElementById("myQavas");
+canvas =document.getElementById("mycavas");
 ctx= canvas.getContext("2d");
 
 ctx.beginPath();
